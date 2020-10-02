@@ -27,4 +27,11 @@ a = square(6)
 def cube(n):
     return a*a*a
 
+def factorial(n):
+    a = 1
+    for i in range(1,n):
+        a = a*1
+    return a
+
+
 print(a)
