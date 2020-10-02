@@ -22,4 +22,9 @@ print(getSum(10, 3))
 def square(n):
     return n*n
 a = square(6)
+
+
+def cube(n):
+    return a*a*a
+
 print(a)
